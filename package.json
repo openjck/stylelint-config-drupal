@@ -20,6 +20,6 @@
   "homepage": "https://github.com/u7aro/stylelint-config-drupal#readme",
   "dependencies": {
     "stylelint-config-standard": "^20.0.0",
-    "stylelint-order": "^4.0.0"
+    "stylelint-order": "^6.0.3"
   }
 }
